@@ -1,4 +1,4 @@
-# Spring Boot + Vue.js
+# Spring Boot + Vue.js blank template
 
 back-end: Spring Boot
 
